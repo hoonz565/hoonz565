@@ -1,5 +1,5 @@
 <h1>
-  Hi, I am Nguyen Minh Hung 👋
+  Hi, I am Minh Hưng 👋
   <a href="https://github.com/hoonz565">
     <img align="right" src="https://komarev.com/ghpvc/?username=hoonz565&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
