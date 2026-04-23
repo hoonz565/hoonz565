@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi, I am Nguyen Minh Hung 👋</h1>
 
-<!--
-**hoonz565/hoonz565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/hoonz565">
+    <img src="https://komarev.com/ghpvc/?username=hoonz565&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Front-End Intern** & 3rd-year CS Student at HCMUT.
+- ❤️ Passionate about building seamless web experiences and transitioning towards **Full-Stack**.
+- 🚀 **Tech stack:** React.js, Tailwind CSS, JavaScript, HTML/CSS, Python (FastAPI).
+- 🌐 **Portfolio:** [https://hoonz565.github.io/](https://hoonz565.github.io/)
+- 📫 **How to reach me:** [nguyenminhhung05062005@gmail.com](mailto:nguyenminhhung05062005@gmail.com)
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your_linkedin_placeholder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/your_facebook_placeholder/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://hoonz565.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,fastapi,git,figma" alt="Skill Icons" />
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/hoonz565">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoonz565&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/hoonz565">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonz565&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
+  </a>
+</p>
