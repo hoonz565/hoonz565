@@ -1,14 +1,13 @@
-<h1 align="center">Hi, I am Nguyen Minh Hung 👋</h1>
-
-<p align="center">
+<h1>
+  Hi, I am Nguyen Minh Hung 👋
   <a href="https://github.com/hoonz565">
-    <img src="https://komarev.com/ghpvc/?username=hoonz565&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=hoonz565&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</p>
+</h1>
 
 ## 👨‍💻 About Me
 
-- 💻 **Front-End Intern** & 3rd-year CS Student at HCMUT.
+- 💻 3rd-year CS Student at HCMUT.
 - ❤️ Passionate about building seamless web experiences and transitioning towards **Full-Stack**.
 - 🚀 **Tech stack:** React.js, Tailwind CSS, JavaScript, HTML/CSS, Python (FastAPI).
 - 🌐 **Portfolio:** [https://hoonz565.github.io/](https://hoonz565.github.io/)
