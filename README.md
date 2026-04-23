@@ -33,14 +33,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,python,fastapi,git,figma" alt="Skill Icons" />
 </p>
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/hoonz565">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoonz565&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/hoonz565">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonz565&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
-  </a>
-</p>
