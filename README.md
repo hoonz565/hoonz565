@@ -16,10 +16,10 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your_linkedin_placeholder/" target="_blank">
+  <a href="https://www.linkedin.com/in/minhhung565/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/your_facebook_placeholder/" target="_blank">
+  <a href="https://www.facebook.com/nguyen.minh.hung.267514" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://hoonz565.github.io/" target="_blank">
