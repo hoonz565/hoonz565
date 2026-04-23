@@ -9,7 +9,7 @@
 
 - 💻 3rd-year CS Student at HCMUT.
 - ❤️ Passionate about building seamless web experiences and transitioning towards **Full-Stack**.
-- 🚀 **Tech stack:** React.js, Tailwind CSS, JavaScript, HTML/CSS, Python (FastAPI).
+- 🚀 **Tech stack:** React.js, Tailwind CSS, JavaScript, HTML/CSS, Python.
 - 🌐 **Portfolio:** [https://hoonz565.github.io/](https://hoonz565.github.io/)
 - 📫 **How to reach me:** [nguyenminhhung05062005@gmail.com](mailto:nguyenminhhung05062005@gmail.com)
 
